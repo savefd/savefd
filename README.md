@@ -25,3 +25,4 @@ Field of Interest 👀
 - Business Intelligence
 - Machine Learning
 - Data Engineer
+- Data Security
