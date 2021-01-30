@@ -17,7 +17,7 @@ CPE Courses ✔
 - CPE494 Blockchain Technology (Projected)
 - CPE494 Penetration Tool Design for Cybersecurity System Assesment (Projected)
 
-Informal internship at Government Big Data Institute (GBDi) 
+Informal internship at Government Big Data Institute (GBDi) ☀
 - Extract sellers' information using Python and Regular Expression
 
 Field of Interest 👀
