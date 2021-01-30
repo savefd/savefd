@@ -17,6 +17,14 @@ CPE Courses ✔
 - CPE494 Blockchain Technology (Projected)
 - CPE494 Penetration Tool Design for Cybersecurity System Assesment (Projected)
 
+Health Courses
+- CHHD102 Introduction to Anatomy and Body Systems for Health Data Science
+- CHHD202 Communicable and Non-communicable Diseases
+- CHHD204 Principle of Clinical Diagnostic and Therapeutics
+- CHHD301 Biostatistic
+- CHHD307 Introduction to Nutrition and Health
+
+
 Informal internship at Government Big Data Institute (GBDi) ☀
 - Extract sellers' information using Python and Regular Expression
 
