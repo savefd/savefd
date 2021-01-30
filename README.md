@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**savefd/savefd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd undergraduate Health Data Science student<br>
+Computer Engineering department, KMUTT
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CPE Courses ✔
+- CPE102 Computer Programming Basics (Python)
+- CPE111 Programming with Data Sturcture
+- CPE231 Database Systems
+- CPE325 Big Data
+- CPE329 Business Intelligence
+- CPE352 Data Sciences
+- CPE353 Design of Experiment
+- CPE383 Data Privacy and Security
+- CPE378 Machine Learning (Projected)
+- CPE494 Blockchain Technology (Projected)
+- CPE494 Penetration Tool Design for Cybersecurity System Assesment (Projected)
+
+Informal internship at Government Big Data Institute (GBDi) 
+- Extract sellers' information using Python and Regular Expression
+
+Field of Interest 👀
+- Natural Language Processing
+- Business Intelligence
+- Machine Learning
+- Data Engineer
