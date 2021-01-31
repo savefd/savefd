@@ -17,7 +17,7 @@ CPE Courses ✔
 - CPE494 Blockchain Technology (Projected)
 - CPE494 Penetration Tool Design for Cybersecurity System Assesment (Projected)
 
-Health Courses
+Health Courses🚑
 - CHHD102 Introduction to Anatomy and Body Systems for Health Data Science
 - CHHD202 Communicable and Non-communicable Diseases
 - CHHD204 Principle of Clinical Diagnostic and Therapeutics
