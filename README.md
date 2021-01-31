@@ -4,7 +4,7 @@ I am a 3rd undergraduate Health Data Science student<br>
 Computer Engineering department, KMUTT
 
 
-CPE Courses ✔
+✔ CPE Courses 
 - CPE102 Computer Programming Basics (Python)
 - CPE111 Programming with Data Sturcture
 - CPE231 Database Systems
@@ -17,7 +17,7 @@ CPE Courses ✔
 - CPE494 Blockchain Technology (Projected)
 - CPE494 Penetration Tool Design for Cybersecurity System Assesment (Projected)
 
-Health Courses🚑
+🚑 Health Courses
 - CHHD102 Introduction to Anatomy and Body Systems for Health Data Science
 - CHHD202 Communicable and Non-communicable Diseases
 - CHHD204 Principle of Clinical Diagnostic and Therapeutics
@@ -25,10 +25,10 @@ Health Courses🚑
 - CHHD307 Introduction to Nutrition and Health
 
 
-Informal internship at Government Big Data Institute (GBDi) ☀
+☀ Summer 2020 Informal internship at Government Big Data Institute (GBDi) 
 - Extract sellers' information using Python and Regular Expression
 
-Field of Interest 👀
+👀 Field of Interest 
 - Natural Language Processing
 - Business Intelligence
 - Machine Learning
