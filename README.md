@@ -26,7 +26,7 @@ Computer Engineering department, KMUTT
 
 
 ☀ Summer 2020 Informal internship at Government Big Data Institute (GBDi) 
-- Extract sellers' information using Python and Regular Expression
+- Extract sellers' information using Python and Regular Expression for the Revenue Department
 
 👀 Fields of Interest
 - Natural Language Processing
