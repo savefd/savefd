@@ -9,7 +9,7 @@ Faculty of Engineering, KMUTT x Faculty of Medicine and Public health, PCCMS
 - Extract sellers' information from an e-commerce website using Python and Regular Expression for the Revenue Department
 
 👀 Fields of Interest
-- Natural Language Processing
 - Machine Learning
+- Computational biology & Bioinformatics
 - Business Intelligence 
 - Data Security and Pentesting
