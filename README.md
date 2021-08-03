@@ -6,6 +6,5 @@ Faculty of Engineering, KMUTT x Faculty of Medicine and Public health, PCCMS
 
 👀 Fields of Interest
 - Machine Learning
-- Computational biology & Bioinformatics
-- Business Intelligence 
+- Computational biology, Systems biology, Bioinformatics
 - Data Security and Pentesting
