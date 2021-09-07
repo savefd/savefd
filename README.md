@@ -5,6 +5,6 @@ Computer Engineering department, KMUTT
 Faculty of Engineering, KMUTT x Faculty of Medicine and Public health, PCCMS
 
 👀 Interested
-- Machine Learning
-- Computational biology, Systems biology, Bioinformatics
+- Data Science and Machine Learning
+- Computational Biology, Systems Biology, Bioinformatics
 - Data Security and Pentesting
