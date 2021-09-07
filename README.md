@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a 4th undergraduate Health Data Science student<br>
+I am a 4th year undergraduate Health Data Science student<br>
 Computer Engineering department, KMUTT
 Faculty of Engineering, KMUTT x Faculty of Medicine and Public health, PCCMS
 
